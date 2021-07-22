@@ -1,201 +1,65 @@
 {
   "items": [
     {
-      "id": "46012355",
+      "id": "46403591",
       "premium": false,
-      "name": "Data Scientist",
+      "name": "Оператор колл-центра (не продажи)",
       "department": null,
       "has_test": false,
       "response_letter_required": false,
       "area": {
-        "id": "1",
-        "name": "Москва",
-        "url": "https://api.hh.ru/areas/1"
+        "id": "54",
+        "name": "Красноярск",
+        "url": "https://api.hh.ru/areas/54"
       },
       "salary": {
-        "from": 3000,
-        "to": 5000,
-        "currency": "USD",
-        "gross": true
-      },
-      "type": {
-        "id": "open",
-        "name": "Открытая"
-      },
-      "address": null,
-      "response_url": null,
-      "sort_point_distance": null,
-      "published_at": "2021-07-18T13:22:16+0300",
-      "created_at": "2021-07-18T13:22:16+0300",
-      "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=46012355",
-      "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/46012355?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/46012355",
-      "relations": [],
-      "employer": {
-        "id": "250",
-        "name": "COMTEK Inc.",
-        "url": "https://api.hh.ru/employers/250",
-        "alternate_url": "https://hh.ru/employer/250",
-        "logo_urls": {
-          "original": "https://hhcdn.ru/employer-logo-original/462338.png",
-          "90": "https://hhcdn.ru/employer-logo/2291212.png",
-          "240": "https://hhcdn.ru/employer-logo/2291213.png"
-        },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=250",
-        "trusted": true
-      },
-      "snippet": {
-        "requirement": "Опыт не менее 3 лет. Технические навыки: Python - обязательно. SQL - обязательно. Dashboarding - обязательно (желательно Power BI). AWS - желательно (они используют...",
-        "responsibility": null
-      },
-      "contacts": null,
-      "schedule": {
-        "id": "fullDay",
-        "name": "Полный день"
-      },
-      "working_days": [],
-      "working_time_intervals": [],
-      "working_time_modes": [],
-      "accept_temporary": false
-    },
-    {
-      "id": "46217912",
-      "premium": false,
-      "name": "Стажер data scientist",
-      "department": null,
-      "has_test": false,
-      "response_letter_required": false,
-      "area": {
-        "id": "2",
-        "name": "Санкт-Петербург",
-        "url": "https://api.hh.ru/areas/2"
-      },
-      "salary": {
-        "from": null,
-        "to": 15000,
+        "from": 34000,
+        "to": 57000,
         "currency": "RUR",
         "gross": false
-      },
-      "type": {
-        "id": "open",
-        "name": "Открытая"
-      },
-      "address": null,
-      "response_url": null,
-      "sort_point_distance": null,
-      "published_at": "2021-07-20T00:57:45+0300",
-      "created_at": "2021-07-20T00:57:45+0300",
-      "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=46217912",
-      "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/46217912?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/46217912",
-      "relations": [],
-      "employer": {
-        "id": "114223",
-        "name": "буше",
-        "url": "https://api.hh.ru/employers/114223",
-        "alternate_url": "https://hh.ru/employer/114223",
-        "logo_urls": {
-          "original": "https://hhcdn.ru/employer-logo-original/587331.jpg",
-          "240": "https://hhcdn.ru/employer-logo/2790580.jpeg",
-          "90": "https://hhcdn.ru/employer-logo/2790579.jpeg"
-        },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=114223",
-        "trusted": true
-      },
-      "snippet": {
-        "requirement": "Базовые знания python. Знание основ машинного обучения и SQL. Понимание практических аспектов мат.статистики и теории вероятности. Желание учиться и интерес...",
-        "responsibility": "Исследовании и анализе данных по запросам других отделов. Разработке и поддержке модулей для текущих ML-проектов. Предложение и проверка перспективных..."
-      },
-      "contacts": null,
-      "schedule": {
-        "id": "flexible",
-        "name": "Гибкий график"
-      },
-      "working_days": [],
-      "working_time_intervals": [],
-      "working_time_modes": [],
-      "accept_temporary": true
-    },
-    {
-      "id": "43471916",
-      "premium": false,
-      "name": "Data Scientist / Quantitative Researcher",
-      "department": null,
-      "has_test": false,
-      "response_letter_required": true,
-      "area": {
-        "id": "1",
-        "name": "Москва",
-        "url": "https://api.hh.ru/areas/1"
-      },
-      "salary": {
-        "from": 250000,
-        "to": null,
-        "currency": "RUR",
-        "gross": true
       },
       "type": {
         "id": "open",
         "name": "Открытая"
       },
       "address": {
-        "city": null,
-        "street": null,
-        "building": null,
+        "city": "Новосибирск",
+        "street": "улица Некрасова",
+        "building": "63/1",
         "description": null,
-        "lat": null,
-        "lng": null,
-        "raw": null,
-        "metro": {
-          "station_name": "Кропоткинская",
-          "line_name": "Сокольническая",
-          "station_id": "1.64",
-          "line_id": "1",
-          "lat": 55.745297,
-          "lng": 37.604217
-        },
-        "metro_stations": [
-          {
-            "station_name": "Кропоткинская",
-            "line_name": "Сокольническая",
-            "station_id": "1.64",
-            "line_id": "1",
-            "lat": 55.745297,
-            "lng": 37.604217
-          }
-        ],
-        "id": "445451"
+        "lat": 55.047476,
+        "lng": 82.937156,
+        "raw": "Новосибирск, улица Некрасова, 63/1",
+        "metro": null,
+        "metro_stations": [],
+        "id": "4123063"
       },
       "response_url": null,
       "sort_point_distance": null,
-      "published_at": "2021-07-17T17:04:57+0300",
-      "created_at": "2021-07-17T17:04:57+0300",
+      "published_at": "2021-07-21T10:38:15+0300",
+      "created_at": "2021-07-21T10:38:15+0300",
       "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=43471916",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=46403591",
       "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/43471916?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/43471916",
+      "url": "https://api.hh.ru/vacancies/46403591?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/46403591",
       "relations": [],
       "employer": {
-        "id": "1085810",
-        "name": "Знаменка Капитал",
-        "url": "https://api.hh.ru/employers/1085810",
-        "alternate_url": "https://hh.ru/employer/1085810",
+        "id": "4812217",
+        "name": "УЦ Профстандарт",
+        "url": "https://api.hh.ru/employers/4812217",
+        "alternate_url": "https://hh.ru/employer/4812217",
         "logo_urls": {
-          "original": "https://hhcdn.ru/employer-logo-original/633055.jpg",
-          "90": "https://hhcdn.ru/employer-logo/2973372.jpeg",
-          "240": "https://hhcdn.ru/employer-logo/2973373.jpeg"
+          "original": "https://hhcdn.ru/employer-logo-original/762652.png",
+          "90": "https://hhcdn.ru/employer-logo/3491565.png",
+          "240": "https://hhcdn.ru/employer-logo/3491566.png"
         },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1085810",
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4812217",
         "trusted": true
       },
       "snippet": {
-        "requirement": "Хорошая академическая подготовка и ее уровень: МА (предпочтительно PhD) из области математики, физики, информационных технологий, инжиниринга. Владение современными статистическими методами...",
-        "responsibility": "Разработка и оценка статистических моделей, алгоритмов машинного обучения для больших и зашумленных наборов рыночных данных, с целью поиска и проверки..."
+        "requirement": "Наличие компьютера, наушников с микрофоном, стабильного интернета. Уверенное владение компьютером. Обеспечение тишины во время работы. Грамотная устная речь.",
+        "responsibility": "Постоянно совершать звонки и разговаривать, чтобы выявить потребность потенциального клиента/ b2b-сегмент (просто фиксировать информацию). Вносить все данные..."
       },
       "contacts": null,
       "schedule": {
@@ -208,54 +72,61 @@
       "accept_temporary": false
     },
     {
-      "id": "46265425",
+      "id": "45992248",
       "premium": false,
-      "name": "Data Scientist",
+      "name": "Менеджер по продажам",
       "department": null,
       "has_test": false,
       "response_letter_required": false,
       "area": {
-        "id": "4",
-        "name": "Новосибирск",
-        "url": "https://api.hh.ru/areas/4"
+        "id": "72",
+        "name": "Пермь",
+        "url": "https://api.hh.ru/areas/72"
       },
       "salary": {
-        "from": 700,
-        "to": 1000,
-        "currency": "USD",
+        "from": 42000,
+        "to": null,
+        "currency": "RUR",
         "gross": false
       },
       "type": {
         "id": "open",
         "name": "Открытая"
       },
-      "address": null,
+      "address": {
+        "city": "Пермь",
+        "street": "улица Ленина",
+        "building": "10",
+        "description": null,
+        "lat": 58.016228,
+        "lng": 56.257004,
+        "raw": "Пермь, улица Ленина, 10",
+        "metro": null,
+        "metro_stations": [],
+        "id": "835571"
+      },
       "response_url": null,
       "sort_point_distance": null,
-      "published_at": "2021-07-18T13:12:52+0300",
-      "created_at": "2021-07-18T13:12:52+0300",
+      "published_at": "2021-07-20T16:43:45+0300",
+      "created_at": "2021-07-20T16:43:45+0300",
       "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=46265425",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=45992248",
       "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/46265425?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/46265425",
+      "url": "https://api.hh.ru/vacancies/45992248?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/45992248",
       "relations": [],
       "employer": {
-        "id": "1969376",
-        "name": "Profit Center",
-        "url": "https://api.hh.ru/employers/1969376",
-        "alternate_url": "https://hh.ru/employer/1969376",
-        "logo_urls": {
-          "original": "https://hhcdn.ru/employer-logo-original/787654.png",
-          "240": "https://hhcdn.ru/employer-logo/3591508.png",
-          "90": "https://hhcdn.ru/employer-logo/3591507.png"
-        },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1969376",
+        "id": "2818445",
+        "name": "Гарант",
+        "url": "https://api.hh.ru/employers/2818445",
+        "alternate_url": "https://hh.ru/employer/2818445",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2818445",
         "trusted": true
       },
       "snippet": {
-        "requirement": "Английский язык на уровне Intermediate. Базовые знания Python (знание основ numpy, keras, pandas) и/или продвинутые знания R-language. ",
-        "responsibility": "Изучение технологии нейронных сетей. Изучение нашей методологии обучения нейронных сетей. Обучение наших нейронных сетей. Составление отчетов по результату обучения нейронных..."
+        "requirement": "Тебе нравятся продажи и общение. У тебя грамотная речь и позитивное отношение к людям.",
+        "responsibility": "Помогать клиентам. Продавать услуги."
       },
       "contacts": null,
       "schedule": {
@@ -268,9 +139,9 @@
       "accept_temporary": false
     },
     {
-      "id": "45715303",
+      "id": "46099704",
       "premium": false,
-      "name": "Специалист Computer Vision (Senior Data Scientist)",
+      "name": "Менеджер по продажам строительных материалов",
       "department": null,
       "has_test": false,
       "response_letter_required": false,
@@ -280,8 +151,8 @@
         "url": "https://api.hh.ru/areas/2"
       },
       "salary": {
-        "from": 180000,
-        "to": 300000,
+        "from": 30000,
+        "to": 100000,
         "currency": "RUR",
         "gross": false
       },
@@ -291,42 +162,38 @@
       },
       "address": {
         "city": "Санкт-Петербург",
-        "street": "2-я Советская улица",
-        "building": "7",
+        "street": "3 линия",
+        "building": "метро Приморская",
         "description": null,
-        "lat": 59.93236,
-        "lng": 30.366048,
-        "raw": "Санкт-Петербург, 2-я Советская улица, 7",
+        "lat": 59.948456,
+        "lng": 30.234633,
+        "raw": "Санкт-Петербург, 3 линия, метро Приморская",
         "metro": null,
         "metro_stations": [],
-        "id": "5535780"
+        "id": "3854933"
       },
       "response_url": null,
       "sort_point_distance": null,
-      "published_at": "2021-07-18T13:56:49+0300",
-      "created_at": "2021-07-18T13:56:49+0300",
+      "published_at": "2021-07-08T17:51:51+0300",
+      "created_at": "2021-07-08T17:51:51+0300",
       "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=45715303",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=46099704",
       "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/45715303?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/45715303",
+      "url": "https://api.hh.ru/vacancies/46099704?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/46099704",
       "relations": [],
       "employer": {
-        "id": "4588942",
-        "name": "Медицинские Скрининг Системы",
-        "url": "https://api.hh.ru/employers/4588942",
-        "alternate_url": "https://hh.ru/employer/4588942",
-        "logo_urls": {
-          "240": "https://hhcdn.ru/employer-logo/3370153.png",
-          "90": "https://hhcdn.ru/employer-logo/3370152.png",
-          "original": "https://hhcdn.ru/employer-logo-original/732269.png"
-        },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4588942",
+        "id": "4291200",
+        "name": "Система",
+        "url": "https://api.hh.ru/employers/4291200",
+        "alternate_url": "https://hh.ru/employer/4291200",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4291200",
         "trusted": true
       },
       "snippet": {
-        "requirement": "Хочет работать в энергичной, слегка чокнутой команде. Не боится рисковать и принимать важные решения. Умеет слушать чужие мнения и не...",
-        "responsibility": "Маммография - детектирование злокачественных и доброкачественных образований на снимках молочной железы. Мы - первая команда, прошедшая в продуктовый контур Эксперимента по использованию..."
+        "requirement": "знание рынка строительных материалов (желательно). -желание работать и зарабатывать. -базовые знания ПК.",
+        "responsibility": "ведение текущей клиентской базы. -холодные звонки по базе. -ведение отчетности (таблицы). -документооборот по сделке (выставление счета, запрос счетов, упд). -"
       },
       "contacts": null,
       "schedule": {
@@ -339,20 +206,20 @@
       "accept_temporary": false
     },
     {
-      "id": "44350010",
+      "id": "46430376",
       "premium": false,
-      "name": "Data Scientist",
+      "name": "Менеджер по продажам товаров для салонов красоты",
       "department": null,
       "has_test": false,
       "response_letter_required": false,
       "area": {
-        "id": "3",
-        "name": "Екатеринбург",
-        "url": "https://api.hh.ru/areas/3"
+        "id": "22",
+        "name": "Владивосток",
+        "url": "https://api.hh.ru/areas/22"
       },
       "salary": {
-        "from": 100000,
-        "to": 250000,
+        "from": 40000,
+        "to": 80000,
         "currency": "RUR",
         "gross": false
       },
@@ -361,43 +228,43 @@
         "name": "Открытая"
       },
       "address": {
-        "city": "Екатеринбург",
-        "street": "улица Сакко и Ванцетти",
-        "building": "61",
+        "city": "Владивосток",
+        "street": "Светланская улица",
+        "building": "109",
         "description": null,
-        "lat": 56.832496,
-        "lng": 60.590126,
-        "raw": "Екатеринбург, улица Сакко и Ванцетти, 61",
+        "lat": 43.115233,
+        "lng": 131.908374,
+        "raw": "Владивосток, Светланская улица, 109",
         "metro": null,
         "metro_stations": [],
-        "id": "854415"
+        "id": "3982834"
       },
       "response_url": null,
       "sort_point_distance": null,
-      "published_at": "2021-07-18T10:06:41+0300",
-      "created_at": "2021-07-18T10:06:41+0300",
+      "published_at": "2021-07-22T02:30:40+0300",
+      "created_at": "2021-07-22T02:30:40+0300",
       "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=44350010",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=46430376",
       "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/44350010?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/44350010",
+      "url": "https://api.hh.ru/vacancies/46430376?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/46430376",
       "relations": [],
       "employer": {
-        "id": "2324020",
-        "name": "Точка",
-        "url": "https://api.hh.ru/employers/2324020",
-        "alternate_url": "https://hh.ru/employer/2324020",
+        "id": "2372256",
+        "name": "Актуаль Плюс",
+        "url": "https://api.hh.ru/employers/2372256",
+        "alternate_url": "https://hh.ru/employer/2372256",
         "logo_urls": {
-          "240": "https://hhcdn.ru/employer-logo/3414734.jpeg",
-          "90": "https://hhcdn.ru/employer-logo/3414733.jpeg",
-          "original": "https://hhcdn.ru/employer-logo-original/743443.jpg"
+          "240": "https://hhcdn.ru/employer-logo/3454094.png",
+          "90": "https://hhcdn.ru/employer-logo/3454093.png",
+          "original": "https://hhcdn.ru/employer-logo-original/753284.png"
         },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2324020",
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2372256",
         "trusted": true
       },
       "snippet": {
-        "requirement": "Есть опыт работы с методами машинного обучения и основными инструментами <highlighttext>data</highlighttext> science: Scikit-learn, XGBoost, CatBoost и т.п. ",
-        "responsibility": "Придумывать и проверять гипотезы, которые позволят построить новые скоринговые модели и улучшить текущие. В результате они должны определять благонадёжность компаний..."
+        "requirement": "Позитивны. Имеете желание зарабатывать. Настроены на результат. Инициативны. Хотите расти и развиваться. Умеете оперативно принимать решения и отвечать за них.",
+        "responsibility": "Выполнение плана по продажам профессиональной косметики и увеличение доверия наших клиентов к компании. Планирование и выполнение планов по звонкам, встречам..."
       },
       "contacts": null,
       "schedule": {
@@ -410,9 +277,380 @@
       "accept_temporary": false
     },
     {
-      "id": "45260586",
+      "id": "46016811",
       "premium": false,
-      "name": "Математик-аналитик (data scientist / data analyst)",
+      "name": "Менеджер в салон дверей",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "88",
+        "name": "Казань",
+        "url": "https://api.hh.ru/areas/88"
+      },
+      "salary": {
+        "from": 40000,
+        "to": 50000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Казань",
+        "street": "проспект Ямашева",
+        "building": "93",
+        "description": null,
+        "lat": 55.826038,
+        "lng": 49.148823,
+        "raw": "Казань, проспект Ямашева, 93",
+        "metro": null,
+        "metro_stations": [],
+        "id": "4514224"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2021-07-06T14:46:43+0300",
+      "created_at": "2021-07-06T14:46:43+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=46016811",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/46016811?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/46016811",
+      "relations": [],
+      "employer": {
+        "id": "1060821",
+        "name": "Рост Развитие Решение",
+        "url": "https://api.hh.ru/employers/1060821",
+        "alternate_url": "https://hh.ru/employer/1060821",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/874868.jpeg",
+          "240": "https://hhcdn.ru/employer-logo/874869.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/85446.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1060821",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Желание профессионально развиваться и много зарабатывать. Готовность к обучению. Высокая клиентоориентированность. Ответственность и нацеленность на результат.",
+        "responsibility": "Продажа входных дверей Torex и межкомнатных дверей Bafa. Соблюдение стандартов по ведению сделки с клиентом и регламентов. Работа с кассой..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "46035680",
+      "premium": false,
+      "name": "Менеджер активных продаж (стальные двери)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "88",
+        "name": "Казань",
+        "url": "https://api.hh.ru/areas/88"
+      },
+      "salary": {
+        "from": 60000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Казань",
+        "street": "улица Васильченко",
+        "building": "30",
+        "description": null,
+        "lat": 55.838187,
+        "lng": 49.036399,
+        "raw": "Казань, улица Васильченко, 30",
+        "metro": {
+          "station_name": "Авиастроительная ",
+          "line_name": "Центральная",
+          "station_id": "49.462",
+          "line_id": "49",
+          "lat": 55.828897,
+          "lng": 49.081403
+        },
+        "metro_stations": [
+          {
+            "station_name": "Авиастроительная ",
+            "line_name": "Центральная",
+            "station_id": "49.462",
+            "line_id": "49",
+            "lat": 55.828897,
+            "lng": 49.081403
+          }
+        ],
+        "id": "2867410"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2021-07-07T08:57:27+0300",
+      "created_at": "2021-07-07T08:57:27+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=46035680",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/46035680?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/46035680",
+      "relations": [],
+      "employer": {
+        "id": "1060821",
+        "name": "Рост Развитие Решение",
+        "url": "https://api.hh.ru/employers/1060821",
+        "alternate_url": "https://hh.ru/employer/1060821",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/874868.jpeg",
+          "240": "https://hhcdn.ru/employer-logo/874869.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/85446.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1060821",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Стремятся стать профессионалом продаж. Хотят достойно зарабатывать. Амбициозны, нацелены на достижение результата. Умеют находить общий язык с людьми, коммуникабельны и...",
+        "responsibility": "Привлечение новых клиентов на вверенной географии. Проведение переговоров. Заключение договоров. Отчетность в установленной форме (в том числе в системе CRM)."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "46273372",
+      "premium": false,
+      "name": "Менеджер активных продаж (бытовая химия)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "88",
+        "name": "Казань",
+        "url": "https://api.hh.ru/areas/88"
+      },
+      "salary": {
+        "from": 65000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Казань",
+        "street": "2-я Гаражная улица",
+        "building": "5",
+        "description": null,
+        "lat": 55.745174,
+        "lng": 49.109253,
+        "raw": "Казань, 2-я Гаражная улица, 5",
+        "metro": null,
+        "metro_stations": [],
+        "id": "5478818"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2021-07-15T16:12:34+0300",
+      "created_at": "2021-07-15T16:12:34+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=46273372",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/46273372?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/46273372",
+      "relations": [],
+      "employer": {
+        "id": "1060821",
+        "name": "Рост Развитие Решение",
+        "url": "https://api.hh.ru/employers/1060821",
+        "alternate_url": "https://hh.ru/employer/1060821",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/874868.jpeg",
+          "240": "https://hhcdn.ru/employer-logo/874869.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/85446.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1060821",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт в продажах. Грамотная речь. Активность. Коммуникабельность.",
+        "responsibility": "Привлечение новых клиентов. Выезды к клиентам с целью проведения переговоров. Заключение договоров. Контроль оплаты. Работа в системе CRM."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "46108959",
+      "premium": false,
+      "name": "Менеджер по продажам (строительный крепеж)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "88",
+        "name": "Казань",
+        "url": "https://api.hh.ru/areas/88"
+      },
+      "salary": {
+        "from": 65000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Казань",
+        "street": "улица Габдуллы Тукая",
+        "building": null,
+        "description": null,
+        "lat": 55.775246,
+        "lng": 49.117966,
+        "raw": "Казань, улица Габдуллы Тукая",
+        "metro": null,
+        "metro_stations": [],
+        "id": "5226709"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2021-07-09T09:46:54+0300",
+      "created_at": "2021-07-09T09:46:54+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=46108959",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/46108959?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/46108959",
+      "relations": [],
+      "employer": {
+        "id": "1060821",
+        "name": "Рост Развитие Решение",
+        "url": "https://api.hh.ru/employers/1060821",
+        "alternate_url": "https://hh.ru/employer/1060821",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/874868.jpeg",
+          "240": "https://hhcdn.ru/employer-logo/874869.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/85446.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1060821",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт в продажах приветствуется. Грамотная речь. Активность. Коммуникабельность.",
+        "responsibility": "Привлечение новых клиентов. Выезды к клиентам с целью проведения переговоров. Заключение договоров. Контроль оплаты."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "45977916",
+      "premium": false,
+      "name": "Менеджер по работе с внешним персоналом",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "26",
+        "name": "Воронеж",
+        "url": "https://api.hh.ru/areas/26"
+      },
+      "salary": {
+        "from": 30000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Воронеж",
+        "street": "Московский проспект",
+        "building": "53",
+        "description": null,
+        "lat": 51.70043,
+        "lng": 39.18162,
+        "raw": "Воронеж, Московский проспект, 53",
+        "metro": null,
+        "metro_stations": [],
+        "id": "3738111"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2021-07-05T14:45:02+0300",
+      "created_at": "2021-07-05T14:45:02+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=45977916",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/45977916?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/45977916",
+      "relations": [],
+      "employer": {
+        "id": "1210277",
+        "name": "Green Pride",
+        "url": "https://api.hh.ru/employers/1210277",
+        "alternate_url": "https://hh.ru/employer/1210277",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/578455.png",
+          "240": "https://hhcdn.ru/employer-logo/2755092.png",
+          "90": "https://hhcdn.ru/employer-logo/2755091.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1210277",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опытный пользователь ПК. Умеете работать в режиме многозадачности. Готовы работать на результат. Самостоятельны и стрессоустойчивы. Опыт работы в call-центре...",
+        "responsibility": "Размещать вакансии на сайтах по поиску работы; обрабатывать отклики и входящие звонки от кандидатов (никаких \"холодных продаж\"). Заниматься активным поиском..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "shift",
+        "name": "Сменный график"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "46281726",
+      "premium": false,
+      "name": "Менеджер по работе с действующими клиентами",
       "department": null,
       "has_test": false,
       "response_letter_required": false,
@@ -422,8 +660,79 @@
         "url": "https://api.hh.ru/areas/2"
       },
       "salary": {
-        "from": 98000,
+        "from": 60000,
         "to": null,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Санкт-Петербург",
+        "street": "улица Маршала Говорова",
+        "building": "35",
+        "description": null,
+        "lat": 59.889038,
+        "lng": 30.278274,
+        "raw": "Санкт-Петербург, улица Маршала Говорова, 35",
+        "metro": null,
+        "metro_stations": [],
+        "id": "6095031"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2021-07-16T00:17:57+0300",
+      "created_at": "2021-07-16T00:17:57+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=46281726",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/46281726?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/46281726",
+      "relations": [],
+      "employer": {
+        "id": "3886769",
+        "name": "Консалтингово-тренинговая компания AlfaSale",
+        "url": "https://api.hh.ru/employers/3886769",
+        "alternate_url": "https://hh.ru/employer/3886769",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/655932.png",
+          "90": "https://hhcdn.ru/employer-logo/3064876.png",
+          "240": "https://hhcdn.ru/employer-logo/3064877.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3886769",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Прекрасно знает, что такое оптовые продажи и настроен на увеличение личного дохода. Имеет четкие профессиональные цели. Обладает отличными навыками ведения...",
+        "responsibility": "На первом этапе изучить продукт под руководством нашего тренера. Работа с действующими клиентами. Активный диалог с клиентами по телефону. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "46395846",
+      "premium": false,
+      "name": "Менеджер по продажам (без холодных звонков)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 50000,
+        "to": 140000,
         "currency": "RUR",
         "gross": true
       },
@@ -434,30 +743,30 @@
       "address": null,
       "response_url": null,
       "sort_point_distance": null,
-      "published_at": "2021-07-19T18:02:08+0300",
-      "created_at": "2021-07-19T18:02:08+0300",
+      "published_at": "2021-07-21T07:19:47+0300",
+      "created_at": "2021-07-21T07:19:47+0300",
       "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=45260586",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=46395846",
       "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/45260586?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/45260586",
+      "url": "https://api.hh.ru/vacancies/46395846?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/46395846",
       "relations": [],
       "employer": {
-        "id": "2954482",
-        "name": "ННФормат",
-        "url": "https://api.hh.ru/employers/2954482",
-        "alternate_url": "https://hh.ru/employer/2954482",
+        "id": "5294777",
+        "name": "Koroleva HR",
+        "url": "https://api.hh.ru/employers/5294777",
+        "alternate_url": "https://hh.ru/employer/5294777",
         "logo_urls": {
-          "90": "https://hhcdn.ru/employer-logo/2578053.png",
-          "240": "https://hhcdn.ru/employer-logo/2578054.png",
-          "original": "https://hhcdn.ru/employer-logo-original/534145.png"
+          "90": "https://hhcdn.ru/employer-logo/3761019.jpeg",
+          "240": "https://hhcdn.ru/employer-logo/3761020.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/830034.JPG"
         },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2954482",
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5294777",
         "trusted": true
       },
       "snippet": {
-        "requirement": "Высшее профильное образование (бакалавриат, специалитет или магистратура) в области прикладной математики и информатики. Знание основных статистических моделей и методов машинного...",
-        "responsibility": "Анализ и прогнозирование временных рядов. Разработка и построение статистических и ML-моделей. Формирование продуктовых метрик под бизнес-задачи. "
+        "requirement": "Большое желание идти вперед и побеждать. Успешный опыт работы менеджером по продажам от 1 года –обязателен. Знание техники продаж. ",
+        "responsibility": "Основной вид деятельности – оптовая торговля продуктами промышленной химии (средства для мойки, дезинфекции, обеззараживания, используемые в медицине, пищевой промышлености, хореке). "
       },
       "contacts": null,
       "schedule": {
@@ -470,9 +779,9 @@
       "accept_temporary": false
     },
     {
-      "id": "46368479",
+      "id": "46089320",
       "premium": false,
-      "name": "Data Scientist",
+      "name": "Менеджер по продажам (удалённо)",
       "department": null,
       "has_test": false,
       "response_letter_required": false,
@@ -481,73 +790,12 @@
         "name": "Москва",
         "url": "https://api.hh.ru/areas/1"
       },
-      "salary": null,
-      "type": {
-        "id": "open",
-        "name": "Открытая"
+      "salary": {
+        "from": 50000,
+        "to": 70000,
+        "currency": "RUR",
+        "gross": false
       },
-      "address": {
-        "city": null,
-        "street": null,
-        "building": null,
-        "description": null,
-        "lat": null,
-        "lng": null,
-        "raw": "Москва, Краснопролетарская, 4",
-        "metro": null,
-        "metro_stations": [],
-        "id": "324943"
-      },
-      "response_url": null,
-      "sort_point_distance": null,
-      "published_at": "2021-07-20T10:36:36+0300",
-      "created_at": "2021-07-20T10:36:36+0300",
-      "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=46368479",
-      "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/46368479?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/46368479",
-      "relations": [],
-      "employer": {
-        "id": "4934",
-        "name": "Билайн",
-        "url": "https://api.hh.ru/employers/4934",
-        "alternate_url": "https://hh.ru/employer/4934",
-        "logo_urls": {
-          "90": "https://hhcdn.ru/employer-logo/3642683.png",
-          "240": "https://hhcdn.ru/employer-logo/3642684.png",
-          "original": "https://hhcdn.ru/employer-logo-original/800449.png"
-        },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4934",
-        "trusted": true
-      },
-      "snippet": {
-        "requirement": "Опыт реализации проектов в области анализа данных и машинного обучения. Понимание основных методов и алгоритмов машинного обучения, опыт их применения...",
-        "responsibility": "Решение бизнес-задач с помощью анализа данных и машинного обучения. Статистический анализ и обработку данных. Построение и валидацию моделей машинного..."
-      },
-      "contacts": null,
-      "schedule": {
-        "id": "fullDay",
-        "name": "Полный день"
-      },
-      "working_days": [],
-      "working_time_intervals": [],
-      "working_time_modes": [],
-      "accept_temporary": false
-    },
-    {
-      "id": "46360129",
-      "premium": false,
-      "name": "Data scientist",
-      "department": null,
-      "has_test": false,
-      "response_letter_required": false,
-      "area": {
-        "id": "1",
-        "name": "Москва",
-        "url": "https://api.hh.ru/areas/1"
-      },
-      "salary": null,
       "type": {
         "id": "open",
         "name": "Открытая"
@@ -555,30 +803,86 @@
       "address": null,
       "response_url": null,
       "sort_point_distance": null,
-      "published_at": "2021-07-20T04:21:59+0300",
-      "created_at": "2021-07-20T04:21:59+0300",
+      "published_at": "2021-07-08T14:17:39+0300",
+      "created_at": "2021-07-08T14:17:39+0300",
       "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=46360129",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=46089320",
       "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/46360129?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/46360129",
+      "url": "https://api.hh.ru/vacancies/46089320?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/46089320",
       "relations": [],
       "employer": {
-        "id": "1781300",
-        "name": "Дром",
-        "url": "https://api.hh.ru/employers/1781300",
-        "alternate_url": "https://hh.ru/employer/1781300",
+        "id": "3343471",
+        "name": "ILC",
+        "url": "https://api.hh.ru/employers/3343471",
+        "alternate_url": "https://hh.ru/employer/3343471",
         "logo_urls": {
-          "90": "https://hhcdn.ru/employer-logo/3260720.png",
-          "240": "https://hhcdn.ru/employer-logo/3260721.png",
-          "original": "https://hhcdn.ru/employer-logo-original/704901.png"
+          "90": "https://hhcdn.ru/employer-logo/2613793.jpeg",
+          "240": "https://hhcdn.ru/employer-logo/2613794.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/543080.jpg"
         },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1781300",
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3343471",
+        "trusted": false
+      },
+      "snippet": {
+        "requirement": "Опыт работы менеджером по продажам. Возможность работы из дома. Взвесьте свои технические возможности (хороший интернет, компьютер, наушники), позаботьтесь о наличии...",
+        "responsibility": "Обработка поступающих заявок. Наш отдел маркетинга создаёт автоворонки и прогревающие цепочки (вебинары, статьи, пробные уроки, видео с нашими экспертами на..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": true
+    },
+    {
+      "id": "43217873",
+      "premium": false,
+      "name": "Модератор объявлений (удаленно)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "4",
+        "name": "Новосибирск",
+        "url": "https://api.hh.ru/areas/4"
+      },
+      "salary": {
+        "from": null,
+        "to": 60000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2021-06-27T05:03:46+0300",
+      "created_at": "2021-06-27T05:03:46+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=43217873",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/43217873?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/43217873",
+      "relations": [],
+      "employer": {
+        "id": "4561823",
+        "name": "АТЛКОМ",
+        "url": "https://api.hh.ru/employers/4561823",
+        "alternate_url": "https://hh.ru/employer/4561823",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4561823",
         "trusted": true
       },
       "snippet": {
-        "requirement": "Уверенное владение Python, ООП, проектирование приложений. Знание DL фреймворка Pytorch. Плюсом будет опыт работы с Catalyst. Стандартный набор инструментов: SQL...",
-        "responsibility": "Задачи в области CV/OCR/NLP. Поддержка и улучшение наших готовых CV продуктов. Поддержка и улучшение рекомендательного сервиса. "
+        "requirement": "Опыт работы: не требуется. Наличие телефона с Интернет.",
+        "responsibility": "Открывать объявления в Интернете и сверять информацию. Ничего продавать не нужно, клиентов искать не нужно."
       },
       "contacts": null,
       "schedule": {
@@ -591,9 +895,9 @@
       "accept_temporary": false
     },
     {
-      "id": "46357297",
+      "id": "46215653",
       "premium": false,
-      "name": "Data Scientist",
+      "name": "Продавец-консультант услуг",
       "department": null,
       "has_test": false,
       "response_letter_required": false,
@@ -602,7 +906,12 @@
         "name": "Москва",
         "url": "https://api.hh.ru/areas/1"
       },
-      "salary": null,
+      "salary": {
+        "from": 100000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
       "type": {
         "id": "open",
         "name": "Открытая"
@@ -610,30 +919,90 @@
       "address": null,
       "response_url": null,
       "sort_point_distance": null,
-      "published_at": "2021-07-19T19:09:52+0300",
-      "created_at": "2021-07-19T19:09:52+0300",
+      "published_at": "2021-07-13T19:12:04+0300",
+      "created_at": "2021-07-13T19:12:04+0300",
       "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=46357297",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=46215653",
       "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/46357297?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/46357297",
+      "url": "https://api.hh.ru/vacancies/46215653?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/46215653",
       "relations": [],
       "employer": {
-        "id": "4900",
-        "name": "EY (Эрнст энд Янг)",
-        "url": "https://api.hh.ru/employers/4900",
-        "alternate_url": "https://hh.ru/employer/4900",
+        "id": "1058813",
+        "name": "Верона, школа моделей",
+        "url": "https://api.hh.ru/employers/1058813",
+        "alternate_url": "https://hh.ru/employer/1058813",
         "logo_urls": {
-          "90": "https://hhcdn.ru/employer-logo/913511.jpeg",
-          "240": "https://hhcdn.ru/employer-logo/913512.jpeg",
-          "original": "https://hhcdn.ru/employer-logo-original/231280.jpg"
+          "original": "https://hhcdn.ru/employer-logo-original/85834.jpeg",
+          "240": "https://hhcdn.ru/employer-logo/726849.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/726848.jpeg"
         },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4900",
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1058813",
         "trusted": true
       },
       "snippet": {
-        "requirement": "Высшее образование (математическое, физическое, computer science, математико-экономическое). Сильная математическая подготовка. Опыт участия в проектах по разработке аналитических решений: умение...",
-        "responsibility": "Вам предстоит создание передовых решений, построенных на основе анализа данных и машинного обучения для современных задач, возникающих перед бизнесом и..."
+        "requirement": "Опыт работы в прямых продажах. Успешный опыт выполнения плановых показателей. Презентабельный внешний вид. Грамотная речь, развитые коммуникативные навыки, активность, желание...",
+        "responsibility": "Проведение кастинга (входящий поток клиентов) - без холодного привлечения. Презентация продукта, отработка возражений. Продажа курса. Оформление кредитной заявки. Выполнение и перевыполнение..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "shift",
+        "name": "Сменный график"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "45654853",
+      "premium": false,
+      "name": "Официант",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "83",
+        "name": "Смоленск",
+        "url": "https://api.hh.ru/areas/83"
+      },
+      "salary": {
+        "from": 65000,
+        "to": 95000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2021-06-22T17:30:24+0300",
+      "created_at": "2021-06-22T17:30:24+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=45654853",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/45654853?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/45654853",
+      "relations": [],
+      "employer": {
+        "id": "2478352",
+        "name": "СК Сервис",
+        "url": "https://api.hh.ru/employers/2478352",
+        "alternate_url": "https://hh.ru/employer/2478352",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/1836498.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/348558.jpg",
+          "240": "https://hhcdn.ru/employer-logo/1836499.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2478352",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Огромное желание расти и развиваться в сфере ресторанного бизнеса. Ответственность, способность соблюдать правила и порядки ресторана. Умение работать в команде...",
+        "responsibility": "Принимать заказы от гостей ресторана (R-Keeper). Рассчитывать гостей. Обслуживать гостей в зале. Готовить напитки (чай, кофе, морсы, компоты, фреши). "
       },
       "contacts": null,
       "schedule": {
@@ -646,19 +1015,106 @@
       "accept_temporary": false
     },
     {
-      "id": "46307533",
+      "id": "45905504",
       "premium": false,
-      "name": "Аналитик / Data scientist",
+      "name": "Младший менеджер по продажам/Стажёр в отдел продаж В2В",
       "department": null,
       "has_test": false,
       "response_letter_required": false,
       "area": {
-        "id": "1",
-        "name": "Москва",
-        "url": "https://api.hh.ru/areas/1"
+        "id": "66",
+        "name": "Нижний Новгород",
+        "url": "https://api.hh.ru/areas/66"
       },
       "salary": {
-        "from": 130000,
+        "from": 32000,
+        "to": 50000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Нижний Новгород",
+        "street": "Агрономическая улица",
+        "building": "52А",
+        "description": null,
+        "lat": 56.305394,
+        "lng": 44.039565,
+        "raw": "Нижний Новгород, Агрономическая улица, 52А",
+        "metro": {
+          "station_name": "Горьковская",
+          "line_name": "Автозаводская",
+          "station_id": "50.278",
+          "line_id": "50",
+          "lat": 56.313933,
+          "lng": 43.99482
+        },
+        "metro_stations": [
+          {
+            "station_name": "Горьковская",
+            "line_name": "Автозаводская",
+            "station_id": "50.278",
+            "line_id": "50",
+            "lat": 56.313933,
+            "lng": 43.99482
+          }
+        ],
+        "id": "2045342"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2021-07-01T16:58:31+0300",
+      "created_at": "2021-07-01T16:58:31+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=45905504",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/45905504?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/45905504",
+      "relations": [],
+      "employer": {
+        "id": "2760214",
+        "name": "Браслет-Сервис",
+        "url": "https://api.hh.ru/employers/2760214",
+        "alternate_url": "https://hh.ru/employer/2760214",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/2357305.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/2357304.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/478863.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2760214",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Желание развиваться в профессии менеджера по продажам. Умение находить общий язык с людьми. Ориентация на результат. Желание развиваться по карьерной...",
+        "responsibility": "По технологии активных продаж (обучением занимается руководитель отдела). По ассортименту и специфике сувенирного бизнеса. По использованию профильных программ (CRM, отчётность..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "45959689",
+      "premium": false,
+      "name": "Менеджер по работе с ключевыми клиентами (Казань)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "88",
+        "name": "Казань",
+        "url": "https://api.hh.ru/areas/88"
+      },
+      "salary": {
+        "from": 100000,
         "to": null,
         "currency": "RUR",
         "gross": false
@@ -668,59 +1124,59 @@
         "name": "Открытая"
       },
       "address": {
-        "city": "Москва",
-        "street": "Духовской переулок",
-        "building": "17с11",
+        "city": "Казань",
+        "street": "Гвардейская улица",
+        "building": "54И",
         "description": null,
-        "lat": 55.704524,
-        "lng": 37.615371,
-        "raw": "Москва, Духовской переулок, 17с11",
+        "lat": 55.768314,
+        "lng": 49.175261,
+        "raw": "Казань, Гвардейская улица, 54И",
         "metro": {
-          "station_name": "Тульская",
-          "line_name": "Серпуховско-Тимирязевская",
-          "station_id": "9.142",
-          "line_id": "9",
-          "lat": 55.70961,
-          "lng": 37.622569
+          "station_name": "Аметьево",
+          "line_name": "Центральная",
+          "station_id": "49.275",
+          "line_id": "49",
+          "lat": 55.765346,
+          "lng": 49.165083
         },
         "metro_stations": [
           {
-            "station_name": "Тульская",
-            "line_name": "Серпуховско-Тимирязевская",
-            "station_id": "9.142",
-            "line_id": "9",
-            "lat": 55.70961,
-            "lng": 37.622569
+            "station_name": "Аметьево",
+            "line_name": "Центральная",
+            "station_id": "49.275",
+            "line_id": "49",
+            "lat": 55.765346,
+            "lng": 49.165083
           }
         ],
-        "id": "453077"
+        "id": "1097530"
       },
       "response_url": null,
       "sort_point_distance": null,
-      "published_at": "2021-07-19T17:21:13+0300",
-      "created_at": "2021-07-19T17:21:13+0300",
+      "published_at": "2021-07-05T09:57:10+0300",
+      "created_at": "2021-07-05T09:57:10+0300",
       "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=46307533",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=45959689",
       "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/46307533?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/46307533",
+      "url": "https://api.hh.ru/vacancies/45959689?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/45959689",
       "relations": [],
       "employer": {
-        "id": "1707753",
-        "name": "Пойзон Дроп",
-        "url": "https://api.hh.ru/employers/1707753",
-        "alternate_url": "https://hh.ru/employer/1707753",
+        "id": "1060821",
+        "name": "Рост Развитие Решение",
+        "url": "https://api.hh.ru/employers/1060821",
+        "alternate_url": "https://hh.ru/employer/1060821",
         "logo_urls": {
-          "90": "https://hhcdn.ru/employer-logo/2282480.png",
-          "240": "https://hhcdn.ru/employer-logo/2282481.png",
-          "original": "https://hhcdn.ru/employer-logo-original/460154.png"
+          "90": "https://hhcdn.ru/employer-logo/874868.jpeg",
+          "240": "https://hhcdn.ru/employer-logo/874869.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/85446.jpg"
         },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1707753",
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1060821",
         "trusted": true
       },
       "snippet": {
-        "requirement": "Какие навыки и знания тебе пригодятся: Опыт работы в В2С компаниях, ритейл и ЕСОМ как преимущество. ",
-        "responsibility": "Совместно с разработчиками дорабатывать OLAP-куб и настраивать систему отчетности. Сейчас анализируются данные только из товароучетной и CRM. "
+        "requirement": "Эффективность в переговорах с клиентами. Опыт активных продаж от 3 лет. Высокий уровень мотивации к успеху. Позитивный настрой, гибкость, коммуникабельность.",
+        "responsibility": "Привлечение новых клиентов: база потенциальных клиентов, поиск, входящие запросы. Переговоры при встречах. Допродажи текущим клиентам."
       },
       "contacts": null,
       "schedule": {
@@ -733,135 +1189,20 @@
       "accept_temporary": false
     },
     {
-      "id": "45559729",
+      "id": "46309789",
       "premium": false,
-      "name": "Data Scientist ASR / TTS",
+      "name": "Оператор call-центра",
       "department": null,
       "has_test": false,
       "response_letter_required": false,
       "area": {
-        "id": "1",
-        "name": "Москва",
-        "url": "https://api.hh.ru/areas/1"
+        "id": "2",
+        "name": "Санкт-Петербург",
+        "url": "https://api.hh.ru/areas/2"
       },
       "salary": {
-        "from": 230000,
-        "to": 400000,
-        "currency": "RUR",
-        "gross": true
-      },
-      "type": {
-        "id": "open",
-        "name": "Открытая"
-      },
-      "address": null,
-      "response_url": null,
-      "sort_point_distance": null,
-      "published_at": "2021-07-18T13:08:25+0300",
-      "created_at": "2021-07-18T13:08:25+0300",
-      "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=45559729",
-      "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/45559729?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/45559729",
-      "relations": [],
-      "employer": {
-        "id": "5174849",
-        "name": "Wanted",
-        "url": "https://api.hh.ru/employers/5174849",
-        "alternate_url": "https://hh.ru/employer/5174849",
-        "logo_urls": {
-          "original": "https://hhcdn.ru/employer-logo-original/811988.png",
-          "240": "https://hhcdn.ru/employer-logo/3688840.png",
-          "90": "https://hhcdn.ru/employer-logo/3688839.png"
-        },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5174849",
-        "trusted": true
-      },
-      "snippet": {
-        "requirement": "Опыт разработки ASR и опыт использования ASR архитектур. Знание Pytorch/TensorFlow. Хорошее понимание архитектур (CNN, RNN, LSTM, GRU, Transformers и...",
-        "responsibility": "Оптимизация архитектуры ASR до real-time на cpu. Проведение экспериментов, реализация прототипов и доведения их до запуска на продакшне. "
-      },
-      "contacts": null,
-      "schedule": {
-        "id": "flexible",
-        "name": "Гибкий график"
-      },
-      "working_days": [],
-      "working_time_intervals": [],
-      "working_time_modes": [],
-      "accept_temporary": true
-    },
-    {
-      "id": "46160570",
-      "premium": false,
-      "name": "Data Scientist",
-      "department": null,
-      "has_test": false,
-      "response_letter_required": false,
-      "area": {
-        "id": "1002",
-        "name": "Минск",
-        "url": "https://api.hh.ru/areas/1002"
-      },
-      "salary": null,
-      "type": {
-        "id": "open",
-        "name": "Открытая"
-      },
-      "address": null,
-      "response_url": null,
-      "sort_point_distance": null,
-      "published_at": "2021-07-18T13:04:23+0300",
-      "created_at": "2021-07-18T13:04:23+0300",
-      "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=46160570",
-      "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/46160570?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/46160570",
-      "relations": [],
-      "employer": {
-        "id": "921918",
-        "name": "Admitad",
-        "url": "https://api.hh.ru/employers/921918",
-        "alternate_url": "https://hh.ru/employer/921918",
-        "logo_urls": {
-          "90": "https://hhcdn.ru/employer-logo/3245364.jpeg",
-          "240": "https://hhcdn.ru/employer-logo/3245365.jpeg",
-          "original": "https://hhcdn.ru/employer-logo-original/701062.jpg"
-        },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=921918",
-        "trusted": true
-      },
-      "snippet": {
-        "requirement": "С опытом более 2х лет в DS. С сильным математическим бэкграундом (линал, матан, - теория вероятности и мат. статистика). ",
-        "responsibility": "Предсказание фрода по данным о трафике. Предсказание CR, которую клиент сможет ожидать от наших партнёров. Рекомендательные системы для клиентов и..."
-      },
-      "contacts": null,
-      "schedule": {
-        "id": "fullDay",
-        "name": "Полный день"
-      },
-      "working_days": [],
-      "working_time_intervals": [],
-      "working_time_modes": [],
-      "accept_temporary": false
-    },
-    {
-      "id": "45191074",
-      "premium": false,
-      "name": "Data Scientist",
-      "department": null,
-      "has_test": false,
-      "response_letter_required": false,
-      "area": {
-        "id": "1",
-        "name": "Москва",
-        "url": "https://api.hh.ru/areas/1"
-      },
-      "salary": {
-        "from": null,
-        "to": 250000,
+        "from": 50000,
+        "to": null,
         "currency": "RUR",
         "gross": false
       },
@@ -869,33 +1210,40 @@
         "id": "open",
         "name": "Открытая"
       },
-      "address": null,
+      "address": {
+        "city": "Санкт-Петербург",
+        "street": "улица Есенина",
+        "building": "1к1",
+        "description": null,
+        "lat": 60.028928,
+        "lng": 30.330502,
+        "raw": "Санкт-Петербург, улица Есенина, 1к1",
+        "metro": null,
+        "metro_stations": [],
+        "id": "2955806"
+      },
       "response_url": null,
       "sort_point_distance": null,
-      "published_at": "2021-07-18T16:07:54+0300",
-      "created_at": "2021-07-18T16:07:54+0300",
+      "published_at": "2021-07-19T19:22:49+0300",
+      "created_at": "2021-07-19T19:22:49+0300",
       "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=45191074",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=46309789",
       "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/45191074?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/45191074",
+      "url": "https://api.hh.ru/vacancies/46309789?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/46309789",
       "relations": [],
       "employer": {
-        "id": "2324020",
-        "name": "Точка",
-        "url": "https://api.hh.ru/employers/2324020",
-        "alternate_url": "https://hh.ru/employer/2324020",
-        "logo_urls": {
-          "240": "https://hhcdn.ru/employer-logo/3414734.jpeg",
-          "90": "https://hhcdn.ru/employer-logo/3414733.jpeg",
-          "original": "https://hhcdn.ru/employer-logo-original/743443.jpg"
-        },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2324020",
+        "id": "2805588",
+        "name": "КИРИШНЕФТЕПРОДУКТ",
+        "url": "https://api.hh.ru/employers/2805588",
+        "alternate_url": "https://hh.ru/employer/2805588",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2805588",
         "trusted": true
       },
       "snippet": {
-        "requirement": "Есть опыт работы с методами машинного обучения и основными инструментами <highlighttext>data</highlighttext> science: Scikit-learn, XGBoost, CatBoost и т.п. ",
-        "responsibility": "Придумывать и проверять гипотезы, которые позволят построить новые скоринговые модели и улучшить текущие. В результате они должны определять благонадёжность компаний..."
+        "requirement": "Рассматриваем всех, как с опытом, так и без, выбираем лучшего. - Умение звонить, продавать, торговаться. - Умение достигать целей, на 100% выполнять...",
+        "responsibility": "Продаем дизельное топливо и другие нефтепродукты. ПОЛНЫЙ ЦИКЛ РАБОТЫ МЕНЕДЖЕРА ПО ПРОДАЖАМ: - Поиск клиентов , активные продажи, наработка собственной базы. - "
       },
       "contacts": null,
       "schedule": {
@@ -908,13 +1256,10 @@
       "accept_temporary": false
     },
     {
-      "id": "46335287",
+      "id": "46007382",
       "premium": false,
-      "name": "Data scientist, Собственные продажи",
-      "department": {
-        "id": "ozonru-2180-dev",
-        "name": "Ozon Информационные технологии"
-      },
+      "name": "Менеджер по продажам / аренде элитной недвижимости, новостроек и вторички",
+      "department": null,
       "has_test": false,
       "response_letter_required": false,
       "area": {
@@ -922,168 +1267,10 @@
         "name": "Москва",
         "url": "https://api.hh.ru/areas/1"
       },
-      "salary": null,
-      "type": {
-        "id": "open",
-        "name": "Открытая"
-      },
-      "address": {
-        "city": "Москва",
-        "street": "Пресненская набережная",
-        "building": null,
-        "description": null,
-        "lat": 55.746791,
-        "lng": 37.540991,
-        "raw": "Москва, Пресненская набережная",
-        "metro": {
-          "station_name": "Выставочная",
-          "line_name": "Филевская",
-          "station_id": "4.172",
-          "line_id": "4",
-          "lat": 55.750243,
-          "lng": 37.542641
-        },
-        "metro_stations": [
-          {
-            "station_name": "Выставочная",
-            "line_name": "Филевская",
-            "station_id": "4.172",
-            "line_id": "4",
-            "lat": 55.750243,
-            "lng": 37.542641
-          },
-          {
-            "station_name": "Деловой центр",
-            "line_name": "Большая кольцевая линия",
-            "station_id": "97.603",
-            "line_id": "97",
-            "lat": 55.7491,
-            "lng": 37.5395
-          },
-          {
-            "station_name": "Деловой центр",
-            "line_name": "Солнцевская",
-            "station_id": "133.468",
-            "line_id": "133",
-            "lat": 55.7491,
-            "lng": 37.5395
-          }
-        ],
-        "id": "5799073"
-      },
-      "response_url": null,
-      "sort_point_distance": null,
-      "published_at": "2021-07-19T11:53:22+0300",
-      "created_at": "2021-07-19T11:53:22+0300",
-      "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=46335287",
-      "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/46335287?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/46335287",
-      "relations": [],
-      "employer": {
-        "id": "2180",
-        "name": "Ozon",
-        "url": "https://api.hh.ru/employers/2180",
-        "alternate_url": "https://hh.ru/employer/2180",
-        "logo_urls": {
-          "90": "https://hhcdn.ru/employer-logo/3391429.png",
-          "240": "https://hhcdn.ru/employer-logo/3391430.png",
-          "original": "https://hhcdn.ru/employer-logo-original/737613.png"
-        },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2180",
-        "trusted": true
-      },
-      "snippet": {
-        "requirement": "Знание методов анализа временных рядов и опыт работы с ними. Опыт решения <highlighttext>Data</highlighttext> Science задач в интернет-бизнесе. ",
-        "responsibility": "Улучшать прогнозирование спроса по всему ассортименту товаров. Создавать новые модели, связанные с прогнозированием спроса. Участвовать в процессе внедрения и мониторинга..."
-      },
-      "contacts": null,
-      "schedule": {
-        "id": "fullDay",
-        "name": "Полный день"
-      },
-      "working_days": [],
-      "working_time_intervals": [],
-      "working_time_modes": [],
-      "accept_temporary": false
-    },
-    {
-      "id": "45704018",
-      "premium": false,
-      "name": "Middle Data Scientist / ML-engineer (NLP)",
-      "department": null,
-      "has_test": false,
-      "response_letter_required": false,
-      "area": {
-        "id": "4",
-        "name": "Новосибирск",
-        "url": "https://api.hh.ru/areas/4"
-      },
       "salary": {
-        "from": 100000,
+        "from": 80000,
         "to": 200000,
         "currency": "RUR",
-        "gross": false
-      },
-      "type": {
-        "id": "open",
-        "name": "Открытая"
-      },
-      "address": null,
-      "response_url": null,
-      "sort_point_distance": null,
-      "published_at": "2021-07-18T10:15:54+0300",
-      "created_at": "2021-07-18T10:15:54+0300",
-      "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=45704018",
-      "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/45704018?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/45704018",
-      "relations": [],
-      "employer": {
-        "id": "1929522",
-        "name": "РЕ:ПОИНТ",
-        "url": "https://api.hh.ru/employers/1929522",
-        "alternate_url": "https://hh.ru/employer/1929522",
-        "logo_urls": {
-          "original": "https://hhcdn.ru/employer-logo-original/643440.png",
-          "90": "https://hhcdn.ru/employer-logo/3014912.png",
-          "240": "https://hhcdn.ru/employer-logo/3014913.png"
-        },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1929522",
-        "trusted": true
-      },
-      "snippet": {
-        "requirement": "Умение писать production-ready код в Python. Опыт работы с классическим ML алгоритмами и библиотеками (sklearn/scipy/pandas/numpy stack). ",
-        "responsibility": "Предобработка текстового описания товара (очистка, токенизация, лемматизация). Предобработка результатов мультиязычного STT. Извлечение именованных сущностей и ключевых слов. Морфологический, синтаксический анализ. "
-      },
-      "contacts": null,
-      "schedule": {
-        "id": "remote",
-        "name": "Удаленная работа"
-      },
-      "working_days": [],
-      "working_time_intervals": [],
-      "working_time_modes": [],
-      "accept_temporary": false
-    },
-    {
-      "id": "46105334",
-      "premium": false,
-      "name": "Data Scientist",
-      "department": null,
-      "has_test": true,
-      "response_letter_required": false,
-      "area": {
-        "id": "1",
-        "name": "Москва",
-        "url": "https://api.hh.ru/areas/1"
-      },
-      "salary": {
-        "from": 100000,
-        "to": 150000,
-        "currency": "RUR",
         "gross": true
       },
       "type": {
@@ -1092,74 +1279,58 @@
       },
       "address": {
         "city": "Москва",
-        "street": "Центральный административный округ, Пресненский район, Московский международный деловой центр Москва-Сити",
-        "building": null,
+        "street": "Тверская улица",
+        "building": "20",
         "description": null,
-        "lat": 55.749451,
-        "lng": 37.542824,
-        "raw": "Москва, Центральный административный округ, Пресненский район, Московский международный деловой центр Москва-Сити",
+        "lat": 55.7665885629,
+        "lng": 37.6026197632,
+        "raw": "Москва, Тверская улица, 20",
         "metro": {
-          "station_name": "Выставочная",
-          "line_name": "Филевская",
-          "station_id": "4.172",
-          "line_id": "4",
-          "lat": 55.750243,
-          "lng": 37.542641
+          "station_name": "Тверская",
+          "line_name": "Замоскворецкая",
+          "station_id": "2.122",
+          "line_id": "2",
+          "lat": 55.765343,
+          "lng": 37.603918
         },
         "metro_stations": [
           {
-            "station_name": "Выставочная",
-            "line_name": "Филевская",
-            "station_id": "4.172",
-            "line_id": "4",
-            "lat": 55.750243,
-            "lng": 37.542641
-          },
-          {
-            "station_name": "Деловой центр",
-            "line_name": "Большая кольцевая линия",
-            "station_id": "97.603",
-            "line_id": "97",
-            "lat": 55.7491,
-            "lng": 37.5395
-          },
-          {
-            "station_name": "Деловой центр",
-            "line_name": "Солнцевская",
-            "station_id": "133.468",
-            "line_id": "133",
-            "lat": 55.7491,
-            "lng": 37.5395
+            "station_name": "Тверская",
+            "line_name": "Замоскворецкая",
+            "station_id": "2.122",
+            "line_id": "2",
+            "lat": 55.765343,
+            "lng": 37.603918
           }
         ],
-        "id": "5492592"
+        "id": "484004"
       },
       "response_url": null,
       "sort_point_distance": null,
-      "published_at": "2021-07-18T07:27:55+0300",
-      "created_at": "2021-07-18T07:27:55+0300",
+      "published_at": "2021-07-21T11:59:56+0300",
+      "created_at": "2021-07-21T11:59:56+0300",
       "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=46105334",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=46007382",
       "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/46105334?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/46105334",
+      "url": "https://api.hh.ru/vacancies/46007382?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/46007382",
       "relations": [],
       "employer": {
-        "id": "1183379",
-        "name": "ЭкспрессДеньги",
-        "url": "https://api.hh.ru/employers/1183379",
-        "alternate_url": "https://hh.ru/employer/1183379",
+        "id": "603897",
+        "name": "ЦЕНТРАЛЬНОЕ",
+        "url": "https://api.hh.ru/employers/603897",
+        "alternate_url": "https://hh.ru/employer/603897",
         "logo_urls": {
-          "original": "https://hhcdn.ru/employer-logo-original/504745.png",
-          "90": "https://hhcdn.ru/employer-logo/2460733.png",
-          "240": "https://hhcdn.ru/employer-logo/2460734.png"
+          "original": "https://hhcdn.ru/employer-logo-original/773169.jpg",
+          "90": "https://hhcdn.ru/employer-logo/3533567.jpeg",
+          "240": "https://hhcdn.ru/employer-logo/3533568.jpeg"
         },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1183379",
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=603897",
         "trusted": true
       },
       "snippet": {
-        "requirement": "Коммерческий опыт построения предсказательных моделей более 1 года. Опыт использования языка Python более 1 года. Опыт работы с пакетами Pandas...",
-        "responsibility": "Разработка и повышение эффективности кредитной скоринговой модели. Анализ предметной области (управление кредитными рисками). Разработка метрик для мониторинга кредитного скоринга. "
+        "requirement": "1. Опыт работы не главное, главное это стремление и желание зарабатывать, работать на результат и развиваться в сфере недвижимости.",
+        "responsibility": "1. Прием входящих \"горячих\" звонков от потенциальных клиентов (по рекламному телефону). 2. Подбирать недвижимость под запросы покупателей, организовывать показы квартир. "
       },
       "contacts": null,
       "schedule": {
@@ -1172,207 +1343,70 @@
       "accept_temporary": false
     },
     {
-      "id": "46359388",
+      "id": "46147524",
       "premium": false,
-      "name": "Data Scientist",
+      "name": "Кредитный специалист",
       "department": null,
       "has_test": false,
       "response_letter_required": false,
       "area": {
-        "id": "1",
-        "name": "Москва",
-        "url": "https://api.hh.ru/areas/1"
+        "id": "89",
+        "name": "Тверь",
+        "url": "https://api.hh.ru/areas/89"
       },
-      "salary": null,
-      "type": {
-        "id": "open",
-        "name": "Открытая"
+      "salary": {
+        "from": 23000,
+        "to": 35000,
+        "currency": "RUR",
+        "gross": true
       },
-      "address": null,
-      "response_url": null,
-      "sort_point_distance": null,
-      "published_at": "2021-07-19T23:43:27+0300",
-      "created_at": "2021-07-19T23:43:27+0300",
-      "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=46359388",
-      "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/46359388?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/46359388",
-      "relations": [],
-      "employer": {
-        "id": "2730772",
-        "name": "BestDoctor",
-        "url": "https://api.hh.ru/employers/2730772",
-        "alternate_url": "https://hh.ru/employer/2730772",
-        "logo_urls": {
-          "original": "https://hhcdn.ru/employer-logo-original/822603.png",
-          "240": "https://hhcdn.ru/employer-logo/3731300.png",
-          "90": "https://hhcdn.ru/employer-logo/3731299.png"
-        },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2730772",
-        "trusted": true
-      },
-      "snippet": {
-        "requirement": "Обладаете хорошими аналитическими навыками. Имеете опыт работы от года, желательно в страховании/в банке: хорошо понимаете статистические модели, работал с...",
-        "responsibility": "Построение различных моделей и доведение их до продакшена. Прогнозирование убытков. Аналитика тестов и моделирование основных показателей по результатам тестов. "
-      },
-      "contacts": null,
-      "schedule": {
-        "id": "fullDay",
-        "name": "Полный день"
-      },
-      "working_days": [],
-      "working_time_intervals": [],
-      "working_time_modes": [],
-      "accept_temporary": false
-    },
-    {
-      "id": "46212607",
-      "premium": false,
-      "name": "Data Scientist",
-      "department": null,
-      "has_test": false,
-      "response_letter_required": false,
-      "area": {
-        "id": "2",
-        "name": "Санкт-Петербург",
-        "url": "https://api.hh.ru/areas/2"
-      },
-      "salary": null,
       "type": {
         "id": "open",
         "name": "Открытая"
       },
       "address": {
-        "city": "Санкт-Петербург",
-        "street": "Университетская набережная",
-        "building": "7-9-11к5",
+        "city": "Тверь",
+        "street": "улица Коминтерна",
+        "building": "47А",
         "description": null,
-        "lat": 59.942435,
-        "lng": 30.293662,
-        "raw": "Санкт-Петербург, Университетская набережная, 7-9-11к5",
-        "metro": {
-          "station_name": "Адмиралтейская",
-          "line_name": "Фрунзенско-Приморская",
-          "station_id": "18.258",
-          "line_id": "18",
-          "lat": 59.935867,
-          "lng": 30.31523
-        },
-        "metro_stations": [
-          {
-            "station_name": "Адмиралтейская",
-            "line_name": "Фрунзенско-Приморская",
-            "station_id": "18.258",
-            "line_id": "18",
-            "lat": 59.935867,
-            "lng": 30.31523
-          },
-          {
-            "station_name": "Василеостровская",
-            "line_name": "Невско-Василеостровская",
-            "station_id": "16.228",
-            "line_id": "16",
-            "lat": 59.942577,
-            "lng": 30.278254
-          },
-          {
-            "station_name": "Спортивная",
-            "line_name": "Фрунзенско-Приморская",
-            "station_id": "18.249",
-            "line_id": "18",
-            "lat": 59.952026,
-            "lng": 30.291338
-          }
-        ],
-        "id": "3110204"
+        "lat": 56.836717,
+        "lng": 35.894343,
+        "raw": "Тверь, улица Коминтерна, 47А",
+        "metro": null,
+        "metro_stations": [],
+        "id": "3422529"
       },
       "response_url": null,
       "sort_point_distance": null,
-      "published_at": "2021-07-19T17:08:31+0300",
-      "created_at": "2021-07-19T17:08:31+0300",
+      "published_at": "2021-07-12T09:39:35+0300",
+      "created_at": "2021-07-12T09:39:35+0300",
       "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=46212607",
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=46147524",
       "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/46212607?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/46212607",
+      "url": "https://api.hh.ru/vacancies/46147524?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/46147524",
       "relations": [],
       "employer": {
-        "id": "1128487",
-        "name": "Дженстек",
-        "url": "https://api.hh.ru/employers/1128487",
-        "alternate_url": "https://hh.ru/employer/1128487",
+        "id": "1698106",
+        "name": "Русские деньги",
+        "url": "https://api.hh.ru/employers/1698106",
+        "alternate_url": "https://hh.ru/employer/1698106",
         "logo_urls": {
-          "original": "https://hhcdn.ru/employer-logo-original/433069.jpg",
-          "90": "https://hhcdn.ru/employer-logo/2174346.jpeg",
-          "240": "https://hhcdn.ru/employer-logo/2174347.jpeg"
+          "240": "https://hhcdn.ru/employer-logo/3097669.png",
+          "90": "https://hhcdn.ru/employer-logo/3097668.png",
+          "original": "https://hhcdn.ru/employer-logo-original/664134.png"
         },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1128487",
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1698106",
         "trusted": true
       },
       "snippet": {
-        "requirement": "...foundation in <highlighttext>data</highlighttext> science. Experience with <highlighttext>data</highlighttext> science technology stack: Python, R, Jupyter notebooks. Familiarity with modern <highlighttext>data</highlighttext> science packages...",
-        "responsibility": "Collect and integrate <highlighttext>data</highlighttext>/metadata from private/public biological databases. Develop interactive visual applications in R Shiny. Develop AI/ML..."
+        "requirement": "Энергичность, доброжелательность, грамотная письменная и устная речь. Уверенный пользователь ПК, навыки работы с офисной техникой. Ответственность и дисциплинированность. ",
+        "responsibility": "Консультирование клиентов по услугам компании, без активного поиска и \"холодных\" звонков. Оформление заявок на кредит. Проверка документов клиента."
       },
       "contacts": null,
       "schedule": {
-        "id": "fullDay",
-        "name": "Полный день"
-      },
-      "working_days": [],
-      "working_time_intervals": [],
-      "working_time_modes": [],
-      "accept_temporary": false
-    },
-    {
-      "id": "46149708",
-      "premium": false,
-      "name": "Data Scientist",
-      "department": null,
-      "has_test": false,
-      "response_letter_required": false,
-      "area": {
-        "id": "1",
-        "name": "Москва",
-        "url": "https://api.hh.ru/areas/1"
-      },
-      "salary": null,
-      "type": {
-        "id": "open",
-        "name": "Открытая"
-      },
-      "address": null,
-      "response_url": null,
-      "sort_point_distance": null,
-      "published_at": "2021-07-18T10:17:16+0300",
-      "created_at": "2021-07-18T10:17:16+0300",
-      "archived": false,
-      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=46149708",
-      "insider_interview": null,
-      "url": "https://api.hh.ru/vacancies/46149708?host=hh.ru",
-      "alternate_url": "https://hh.ru/vacancy/46149708",
-      "relations": [],
-      "employer": {
-        "id": "1723062",
-        "name": "DIGINETICA",
-        "url": "https://api.hh.ru/employers/1723062",
-        "alternate_url": "https://hh.ru/employer/1723062",
-        "logo_urls": {
-          "90": "https://hhcdn.ru/employer-logo/1553246.png",
-          "original": "https://hhcdn.ru/employer-logo-original/277679.png",
-          "240": "https://hhcdn.ru/employer-logo/1553247.png"
-        },
-        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1723062",
-        "trusted": true
-      },
-      "snippet": {
-        "requirement": "SQL. 2+ года опыта коммерческой работы в <highlighttext>Data</highlighttext> Science, навык самостоятельного решения формализованных задач. Опыт чтения и имплементации научных...",
-        "responsibility": "Разрабатывать модели схожести запросов и товаров. Разрабатывать модели ранжирования. Разрабатывать модели исправления опечаток. Дорабатывать сервис метрик и производить анализ метрик. "
-      },
-      "contacts": null,
-      "schedule": {
-        "id": "remote",
-        "name": "Удаленная работа"
+        "id": "shift",
+        "name": "Сменный график"
       },
       "working_days": [],
       "working_time_intervals": [],
@@ -1380,11 +1414,11 @@
       "accept_temporary": false
     }
   ],
-  "found": 640,
-  "pages": 32,
+  "found": 1053030,
+  "pages": 100,
   "per_page": 20,
   "page": 0,
   "clusters": null,
   "arguments": null,
-  "alternate_url": "https://hh.ru/search/vacancy?enable_snippets=true&text=data+scientist"
+  "alternate_url": "https://hh.ru/search/vacancy?enable_snippets=true"
 }
