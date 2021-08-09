@@ -1,7 +1,11 @@
 class Must_read:
-    file = open("./data.csv")
-    for line in file:
-        print(line, end="")
-    print("")
+    try:
+        file = open("../data.csv")
+    except FileNotFoundError:
+        print("Error: File not found")
+    else:
+        print(file.read())
+        file.close()
+
 if __name__=='__main__':
     Must_read
