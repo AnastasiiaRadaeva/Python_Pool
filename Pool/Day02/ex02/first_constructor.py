@@ -1,5 +1,4 @@
 import sys
-import os
 
 class Research:
     def __init__(self, file_name):
@@ -14,11 +13,15 @@ class Research:
         else:
             header = file.readline()
             header_list = header.split(",")
-            if len(header_list) != 2 or (header_list[0] == "" or header_list[1] == ""):
+            if len(header_list) != 2 or (header_list[0] == "" or header_list[1] == "" or header_list[1] == "\n"):
                 raise Exception()
+            flag = 0
             for line in file:
-                if line != "1,0" and line != "0,1":
+                flag = 1
+                if line != '1,0\n' and line != '0,1\n' and line != '0,1' and line != '1,0':
                     raise Exception()
+            if flag == 0:
+                raise Exception()
             file.close()
 
     def file_reader(self):
