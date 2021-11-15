@@ -46,12 +46,12 @@ def find_info():
         exit()
     tmp_str = sys.argv[1].replace(" ", "")
     input_list = tmp_str.split(",")
-    if len(input_list) == 3:
-        if "" in input_list:
-            print("")
-        else:
-            for i in input_list:
-                print_info(companies, stocks, i)
+    # if len(input_list) == 3: ?????
+    if "" in input_list:
+        print("")
+    else:
+        for i in input_list:
+            print_info(companies, stocks, i)
 
 if __name__=='__main__':
     find_info()

@@ -1,10 +1,9 @@
 def print_dict(dict_for_print):
     for k, v in dict_for_print.items():
         if type(v) == list:
-            print("'" + k + "'", ":", end="")
             for i in v:
-                print(" '"+i+"'", end="")
-            print("")
+                print("'" + k + "'", ":", end="")
+                print(" '"+i+"'")
         else:
             print("'"+k+"'", ":", "'"+v+"'")
 
@@ -40,6 +39,5 @@ def make_dict():
         else:
             new_dict[i[1]] = i[0]
     print_dict(new_dict)
-
 if __name__=='__main__':
     make_dict()
