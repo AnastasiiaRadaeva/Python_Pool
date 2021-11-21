@@ -13,6 +13,7 @@ class Research:
         header = file.readline()
         header_list = header.split(",")
         if len(header_list) != 2 or (header_list[0] == "" or header_list[1] == "\n"):
+            file.close()
             raise Exception()
         flag = 0
         for line in file:
@@ -36,6 +37,11 @@ class Research:
                 text = file.read()
             return text
 
-if __name__=='__main__':
+def main():
+    if len(sys.argv) != 2:
+        raise RuntimeError('Wrong number of arguments')
     my_obj = Research(sys.argv[1])
     print(my_obj.file_reader())
+
+if __name__=='__main__':
+    main()

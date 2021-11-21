@@ -9,6 +9,9 @@ class Research:
             file.close()
             return text
 
-if __name__=='__main__':
+def main():
     my_class = Research()
     print(my_class.file_reader())
+
+if __name__=='__main__':
+    main()
